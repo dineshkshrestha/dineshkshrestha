@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a mid-level software developer with over 5 years of experience in developing web and desktop applications. I specialize in frontend technologies like React, Bootstrap, HTML, CSS, Tailwind and jQuery/JavaScript, and backend development using .NET Core, PHP. <br><br>🔭 I'm currently working on <br>Personal Dream Project <br>🤝 I'm looking to collaborate on<br>My Private Project<br>
+👋 Hi, I'm a software developer with over 5 years of experience in developing web and desktop applications. I specialize in frontend technologies like React, Bootstrap, HTML, CSS, Tailwind and jQuery/JavaScript, and backend development using .NET Core, PHP. <br><br>🔭 I'm currently working on <br>Personal Dream Project <br>🤝 I'm looking to collaborate on<br>My Private Project<br>
 
 
 ## 🌐 Socials:
